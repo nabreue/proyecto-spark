@@ -1,0 +1,6 @@
+order_id,customer_id,store_id,order_date,payment_method
+1,1,1,2024-01-01,card
+2,2,2,2024-01-01,cash
+3,3,1,2024-01-02,card
+4,4,3,2024-01-02,transfer
+5,5,1,2024-01-03,bizum

@@ -1,0 +1,6 @@
+product_id,product_name,category,list_price
+1,Portatil,Electronics,900.00
+2,Teclado,Electronics,50.00
+3,Silla,Home,120.00
+4,Libro,Books,20.00
+5,Monitor,Electronics,250.00
